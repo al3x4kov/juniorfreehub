@@ -15,6 +15,7 @@ import {
   Typography,
 } from '@mui/material';
 
+
 const news = [
   {
     id: 1,
